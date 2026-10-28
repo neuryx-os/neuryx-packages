@@ -1,0 +1,18 @@
+# OBS / osc
+.osc/
+*.rpm
+*.src.rpm
+build/
+_build.*
+*.obscpio
+
+# Fontes baixadas
+*.tar.gz
+*.tar.xz
+*.tar.zst
+
+# Editores
+*.swp
+*~
+.vscode/
+.idea/
